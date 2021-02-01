@@ -61,8 +61,10 @@
 <td>Remove RDS CA Certificate update</td>
 </tr>
 <tr class="odd">
-
 </tr>
+<tr class="even">
+<td><h2 id="dbms-v1">DBMS: 1.0.188</h2>
+<p><strong>December 15, 2020</strong></p></td>
 </tbody>
 </table>
 
