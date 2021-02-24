@@ -4,10 +4,10 @@ To see a list of all of the releases and goals for this service, see [PRD-X](htt
 
 Jump to release notes for a given release
 
-- [DBMS v. 1.3.0](#v1-3-0)
-- [DBMS v. 1.2.0](#v1-2-0)
-- [DBMS v. 1.1.0](#v1-1-0)
-- [DBMS v. 1.0.0](#v1-0-0)
+- [DBMS v1.3.0](#v130)
+- [DBMS v1.2.0](#v120)
+- [DBMS v1.1.0](#v110)
+- [DBMS v1.0.0](#v100)
 
 ## v1.3.0
 
