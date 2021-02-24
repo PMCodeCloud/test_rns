@@ -1,6 +1,6 @@
 # Pega Cloud service release notes template
 
-Pega tech doc created this folder to for service teams to source their release notes folder and use the template in it.
+Pega tech doc created this folder for service teams to source their release notes folder. Each service team will begin their release note documentation using the template provided in the `/internal-release-notes` folder.
 
 ## Goal
 
