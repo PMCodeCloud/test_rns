@@ -4,8 +4,8 @@ To see a list of all of the releases and goals for this service, see [PRD-X](htt
 
 Jump to release notes for a given release
 
-- [DBMS v1.1.0](#v110)
-- [DBMS v1.0.0](#v100)
+- [DBMS v1.1.0](#v110-features-and-enhancements)
+- [DBMS v1.0.0](#1v00-features-and-enhancements)
 
 ## v1.1.0 Features and Enhancements
 
@@ -58,7 +58,7 @@ Bug    | Enhancement details       |
 -----------------------------------------------------------------
 -----------------------------------------------------------------
 
-## 1.0.0 Features and Enhancements
+## v1.0.0 Features and Enhancements
 
 ### Goal-23456 - include hyperlink to the Agile Studio goal
 
