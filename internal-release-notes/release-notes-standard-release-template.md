@@ -4,19 +4,19 @@ To see a list of all of the releases and goals for this service, see [PRD-X](htt
 
 Jump to release notes for a given release
 
-- [DBMS v1.3.0](#v130)
-- [DBMS v1.2.0](#v120)
 - [DBMS v1.1.0](#v110)
 - [DBMS v1.0.0](#v100)
 
-## v1.3.0
+## v1.1.0 Features and Enhancements
 
-- Release date of goal; include hyperlink to the Agile Studio goal
+### Goal-12345 - include hyperlink to the Agile Studio goal
+
+- Release date of goal-12345
 - Summary of the business value that is driving this change
-- Reason update is required now:
-- Do these changes require a Pega Cloud infrastructure update? Yes or no
+- Reason update is required now
+- Do the changes in this goal impact the client runtime environment? Yes or no
 
-### Associated EPICs and new features in v1.3.0
+### Associated Release v1.1.0 EPICs for new features in Goal-12345
 
 Epics in this goal include
 
@@ -24,27 +24,17 @@ Epic    | New or updated feature       |
 --------|------------------------------|
 [Epic-#](agile studio link) | Change or enhancement detailing the new feature impact on Pega Cloud Operations: does it improve their experience? Does it require a new or an update to an existing SOP?|
 [Epic-#](agile studio link) | Change or enhancement detailing the new feature impact on Pega Cloud Operations: does it improve their experience? Does it require a new or an update to an existing SOP?|
-[Epic-#](agile studio link) | Change or enhancement detailing the new feature impact on Pega Cloud Operations: does it improve their experience? Does it require a new or an update to an existing SOP?|
 
-### Associated bugfixes and addressed issues in v1.3.0
+-----------------------------------------------------------------
 
-List bug fixes/issues addressed that includes the following details or sections
+### Goal-67890 - include hyperlink to the Agile Studio goal
 
-Bug    | Enhancement details       |
---------|------------------------------|
-[bug-#](agile studio link) | Description of the issue; Resolution: What was fixed? Why it's required in this new service release? why is it required now and can't wait?|
-[bug-#](agile studio link) | Description of the issue; Resolution: What was fixed? Why it's required in this new service release? why is it required now and can't wait?|
-[bug-#](agile studio link) | Description of the issue; Resolution: What was fixed? Why it's required in this new service release? why is it required now and can't wait?|
-
-## 1.2.0
-
-- Release date of goal; include hyperlink to the Agile Studio goal
+- Release date of goal-67890
 - Summary of the business value that is driving this change
-- A hyperlink to the Agile Studio goal
-- Reason update is required now?
-- Do these changes require a Pega Cloud infrastructure update? Yes or no
+- Reason update is required now
+- Do the changes in this goal impact the client runtime environment? Yes or no
 
-### Associated EPICs and new features in v1.2.0
+### Associated Release v1.1.0 EPICs for new features in Goal-67890
 
 Epics in this goal include
 
@@ -52,35 +42,8 @@ Epic    | New or updated feature       |
 --------|------------------------------|
 [Epic-#](agile studio link) | Change or enhancement detailing the new feature impact on Pega Cloud Operations: does it improve their experience? Does it require a new or an update to an existing SOP?|
 [Epic-#](agile studio link) | Change or enhancement detailing the new feature impact on Pega Cloud Operations: does it improve their experience? Does it require a new or an update to an existing SOP?|
-[Epic-#](agile studio link) | Change or enhancement detailing the new feature impact on Pega Cloud Operations: does it improve their experience? Does it require a new or an update to an existing SOP?|
 
-### Associated bugfixes and addressed issues in v1.2.0
-
-List bug fixes/issues addressed that includes the following details or sections
-
-Bug    | Enhancement details       |
---------|------------------------------|
-[bug-#](agile studio link) | Description of the issue; Resolution: What was fixed? Why it's required in this new service release? why is it required now and can't wait?|
-[bug-#](agile studio link) | Description of the issue; Resolution: What was fixed? Why it's required in this new service release? why is it required now and can't wait?|
-[bug-#](agile studio link) | Description of the issue; Resolution: What was fixed? Why it's required in this new service release? why is it required now and can't wait?|
-
-## 1.1.0
-
-- Release date of goal; include hyperlink to the Agile Studio goal
-- Summary of the business value that is driving this change
-- A hyperlink to the Agile Studio goal
-- Reason update is required now?
-- Do these changes require a Pega Cloud infrastructure update? Yes or no
-
-### Associated EPICs and new features in v1.1.0
-
-Epics in this goal include
-
-Epic    | New or updated feature       |
---------|------------------------------|
-[Epic-#](agile studio link) | Change or enhancement detailing the new feature impact on Pega Cloud Operations: does it improve their experience? Does it require a new or an update to an existing SOP?|
-[Epic-#](agile studio link) | Change or enhancement detailing the new feature impact on Pega Cloud Operations: does it improve their experience? Does it require a new or an update to an existing SOP?|
-[Epic-#](agile studio link) | Change or enhancement detailing the new feature impact on Pega Cloud Operations: does it improve their experience? Does it require a new or an update to an existing SOP?|
+-----------------------------------------------------------------
 
 ### Associated bugfixes and addressed issues in v1.1.0
 
@@ -88,19 +51,23 @@ List bug fixes/issues addressed that includes the following details or sections
 
 Bug    | Enhancement details       |
 --------|------------------------------|
-[bug-#](agile studio link) | Description of the issue; Resolution: What was fixed? Why it's required in this new service release? why is it required now and can't wait?|
-[bug-#](agile studio link) | Description of the issue; Resolution: What was fixed? Why it's required in this new service release? why is it required now and can't wait?|
-[bug-#](agile studio link) | Description of the issue; Resolution: What was fixed? Why it's required in this new service release? why is it required now and can't wait?|
+[bug-#](agile studio link) | <ul><li>Description of the issue: Provide summary</li><li>Resolution: What was fixed?</li><li>Why is it required in this new service release? Why is it required now?</li><li>Does this fix impact the client runtime environment? Yes or no</li></ul> |
+[bug-#](agile studio link) | <ul><li>Description of the issue: Provide summary</li><li>Resolution: What was fixed?</li><li>Why is it required in this new service release? Why is it required now?</li><li>Does this fix impact the client runtime environment? Yes or no</li></ul>|
+[bug-#](agile studio link) | <ul><li>Description of the issue: Provide summary</li><li>Resolution: What was fixed?</li><li>Why is it required in this new service release? Why is it required now?</li><li>Does this fix impact the client runtime environment? Yes or no</li></ul>|
 
-## 1.0.0
+-----------------------------------------------------------------
+-----------------------------------------------------------------
 
-- Release date of goal; include hyperlink to the Agile Studio goal
+## 1.0.0 Features and Enhancements
+
+### Goal-23456 - include hyperlink to the Agile Studio goal
+
+- Release date of goal-23456
 - Summary of the business value that is driving this change
-- A hyperlink to the Agile Studio goal
-- Reason update is required now?
-- Do these changes require a Pega Cloud infrastructure update? Yes or no
+- Reason update is required now
+- Do the changes in this goal impact the client runtime environment? Yes or no
 
-### Associated EPICs and new Features
+### Associated Release v1.0.0 EPICs for new features in Goal-23456
 
 Epics in this goal include
 
@@ -108,7 +75,26 @@ Epic    | New or updated feature       |
 --------|------------------------------|
 [Epic-#](agile studio link) | Change or enhancement detailing the new feature impact on Pega Cloud Operations: does it improve their experience? Does it require a new or an update to an existing SOP?|
 [Epic-#](agile studio link) | Change or enhancement detailing the new feature impact on Pega Cloud Operations: does it improve their experience? Does it require a new or an update to an existing SOP?|
+
+-----------------------------------------------------------------
+
+### Goal-67896 - include hyperlink to the Agile Studio goal
+
+- Release date of goal-67890
+- Summary of the business value that is driving this change
+- Reason update is required now
+- Do the changes in this goal impact the client runtime environment? Yes or no
+
+### Associated Release v1.0.0 EPICs for new features in Goal-67896
+
+Epics in this goal include
+
+Epic    | New or updated feature       |
+--------|------------------------------|
 [Epic-#](agile studio link) | Change or enhancement detailing the new feature impact on Pega Cloud Operations: does it improve their experience? Does it require a new or an update to an existing SOP?|
+[Epic-#](agile studio link) | Change or enhancement detailing the new feature impact on Pega Cloud Operations: does it improve their experience? Does it require a new or an update to an existing SOP?|
+
+-----------------------------------------------------------------
 
 ### Associated bugfixes and addressed issues
 
@@ -116,6 +102,9 @@ List bug fixes/issues addressed that includes the following details or sections
 
 Bug    | Enhancement details       |
 --------|------------------------------|
-[bug-#](agile studio link) | Description of the issue; Resolution: What was fixed? Why it's required in this new service release? why is it required now and can't wait?|
-[bug-#](agile studio link) | Description of the issue; Resolution: What was fixed? Why it's required in this new service release? why is it required now and can't wait?|
-[bug-#](agile studio link) | Description of the issue; Resolution: What was fixed? Why it's required in this new service release? why is it required now and can't wait?|
+[bug-#](agile studio link) | <ul><li>Description of the issue: Provide summary</li><li>Resolution: What was fixed?</li><li>Why is it required in this new service release? Why is it required now?</li><li>Does this fix impact the client runtime environment? Yes or no</li></ul> |
+[bug-#](agile studio link) | <ul><li>Description of the issue: Provide summary</li><li>Resolution: What was fixed?</li><li>Why is it required in this new service release? Why is it required now?</li><li>Does this fix impact the client runtime environment? Yes or no</li></ul>|
+[bug-#](agile studio link) | <ul><li>Description of the issue: Provide summary</li><li>Resolution: What was fixed?</li><li>Why is it required in this new service release? Why is it required now?</li><li>Does this fix impact the client runtime environment? Yes or no</li></ul>|
+
+-----------------------------------------------------------------
+-----------------------------------------------------------------
